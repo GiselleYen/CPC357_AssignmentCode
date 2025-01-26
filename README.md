@@ -4,15 +4,18 @@ This repository contains scripts to simulate a device, process data through MQTT
 
 ### Local Environment
 
-1. Clone the repository:
-2. Open the project in VS Code:
+1. Clone the repository
+2. 
+3. Open the project in VS Code
 
 ## Usage
 
 ### Simulate Device Data
 
 1. Open the VS Code terminal.
+
 2. Run the device simulator script:
+
    ```bash
    python device_simulator.py
    ```
